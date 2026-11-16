@@ -2,6 +2,8 @@
 
 **Capstone Project – Data Visualization**
 
+**Name:** Erina T. Khan | **Roll No.:** 2601201043 | **BCA (H) AI & DS** | **SECTION - B**
+
 An interactive analysis of patient appointment data (age, gender, blood pressure, heart rate and appointment date) built with Python, Pandas, NumPy, Matplotlib and Plotly.
 
 > **Note:** The dataset is a small, simulated (fictional) set of 20 patient records created for academic purposes. It contains no real patient information.
